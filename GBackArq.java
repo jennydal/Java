@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JOptionPane;
-
+//GbackArq
 
 public class GBackArq extends Applet implements ActionListener,Runnable{
 
